@@ -1,9 +1,9 @@
-# General
+# General Apple files
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Thumbnails
+# Apple Thumbnails
 ._*
 
 # Files that might appear in the root of a volume
@@ -39,3 +39,6 @@ Temporary Items
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Private files.
+.private/*
